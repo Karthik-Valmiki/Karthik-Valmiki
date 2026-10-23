@@ -21,21 +21,5 @@ I work with FastAPI, PostgreSQL, Redis, and Docker to build backend applications
 
 ### Contribution Activity
 
-<h2 align="center">Contribution Activity</h2>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Karthik-Valmiki/Profile_repo/output/github-snake-dark.svg" />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Karthik-Valmiki/Profile_repo/output/github-snake.svg" />
-    <img
-      alt="Animated GitHub contribution snake"
-      src="https://raw.githubusercontent.com/Karthik-Valmiki/Profile_repo/output/github-snake.svg"
-      width="100%" />
-  </picture>
-</p>
-
+![GitHub contribution snake](https://raw.githubusercontent.com/Karthik-Valmiki/Karthik-Valmiki/output/github-snake.svg)
 
