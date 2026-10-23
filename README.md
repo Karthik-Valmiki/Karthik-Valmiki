@@ -1,25 +1,49 @@
-# Hi, I'm Karthik 👋
+# Karthik Valmiki
 
-I'm a B.Tech student focused on building backend applications, APIs, and data-processing systems using Python.
+**Python Backend Developer** · APIs · Data Pipelines · Distributed Systems
 
-I work with FastAPI, PostgreSQL, Redis, and Docker to build backend applications and APIs.
+I build backend applications and APIs using Python, FastAPI, PostgreSQL, Redis, and Docker, with a focus on reliable services and practical engineering.
+
+---
 
 ### Tech Stack
 
-**Languages:** Python, SQL  
-**Backend:** FastAPI, REST APIs, SQLAlchemy  
-**Databases & Messaging:** PostgreSQL, Redis  
-**Infrastructure:** Docker, Git, GitHub Actions  
-**Testing:** pytest, k6
+| Area | Technologies |
+|---|---|
+| **Languages** | Python, SQL |
+| **Backend** | FastAPI, REST APIs, SQLAlchemy |
+| **Data & Messaging** | PostgreSQL, Redis |
+| **Infrastructure** | Docker, Git, GitHub Actions |
+| **Testing & Performance** | pytest, k6 |
 
-### Featured Projects
+### Selected Projects
 
-- **[VERO SafeGuard](https://github.com/Karthik-Valmiki/VERO_SafeGuard)** — An AI-powered parametric insurance platform designed to automate payouts during real-world disruptions.
-- **[AsyncZ](https://github.com/Karthik-Valmiki/AsyncZ)** — An asynchronous job queue built with FastAPI, PostgreSQL, and Redis for background task processing.
-- **[GeoLint](https://github.com/Karthik-Valmiki/GeoLint)** — An asynchronous processing pipeline for geospatial vector files.
-- **[Agent Skill Marketplace](https://github.com/Karthik-Valmiki/Agent_Skill_MarketPlace)** — An agent-skill marketplace focused on website auditing and AI discoverability.
+**[VERO SafeGuard](https://github.com/Karthik-Valmiki/VERO_SafeGuard)**  
+Parametric insurance platform designed to automate payouts during real-world disruptions.
+
+**[AsyncZ](https://github.com/Karthik-Valmiki/AsyncZ)**  
+Asynchronous job queue built with FastAPI, PostgreSQL, and Redis for background task processing.
+
+**[GeoLint](https://github.com/Karthik-Valmiki/GeoLint)**  
+Asynchronous processing pipeline for geospatial vector files.
+
+**[Agent Skill Marketplace](https://github.com/Karthik-Valmiki/Agent_Skill_MarketPlace)**  
+Platform for website auditing, AI discoverability, and agent skill evaluation.
+
+---
 
 ### Contribution Activity
 
-![GitHub contribution snake](https://raw.githubusercontent.com/Karthik-Valmiki/Karthik-Valmiki/output/github-snake.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Karthik-Valmiki/Profile_repo/output/github-snake-dark.svg" />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Karthik-Valmiki/Profile_repo/output/github-snake.svg" />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Karthik-Valmiki/Profile_repo/output/github-snake.svg"
+    width="100%" />
+</picture>
 
