@@ -20,9 +20,11 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Karthik-Valmiki
+
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?palette=github-light&color_snake=%23096B45
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%233FBF8F
+
 
       - name: Publish snake
         uses: crazy-max/ghaction-github-pages@v4
