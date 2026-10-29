@@ -16,7 +16,7 @@ I build backend applications and APIs using Python, FastAPI, PostgreSQL, Redis, 
 | **Infrastructure** | Docker, Git, GitHub Actions |
 | **Testing & Performance** | pytest, k6 |
 
-### Selected Projects
+### Projects I am Particularly Proud of
 
 **[VERO SafeGuard](https://github.com/Karthik-Valmiki/VERO_SafeGuard)**  
 Parametric insurance platform designed to automate payouts during real-world disruptions.
