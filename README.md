@@ -1,6 +1,6 @@
 # Karthik Valmiki
 
-**Python Backend Developer** · APIs · Data Pipelines · Distributed Systems
+**Backend Developer** · APIs · Data Pipelines · Distributed Systems
 
 I build backend applications and APIs using Python, FastAPI, PostgreSQL, Redis, and Docker, with a focus on reliable services and practical engineering.
 
@@ -10,7 +10,7 @@ I build backend applications and APIs using Python, FastAPI, PostgreSQL, Redis, 
 
 | Area | Technologies |
 |---|---|
-| **Languages** | Python, SQL |
+| **Languages** | Python, SQL, JavaScript|
 | **Backend** | FastAPI, REST APIs, SQLAlchemy |
 | **Data & Messaging** | PostgreSQL, Redis |
 | **Infrastructure** | Docker, Git, GitHub Actions |
