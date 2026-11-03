@@ -31,6 +31,3 @@ Asynchronous processing pipeline for geospatial vector files.
 Platform for website auditing, AI discoverability, and agent skill evaluation.
 
 ---
-
-### Contribution Activity
-![GitHub contribution snake](https://raw.githubusercontent.com/Karthik-Valmiki/Karthik-Valmiki/output/github-snake.svg)
